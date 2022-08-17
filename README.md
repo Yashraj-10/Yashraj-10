@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashraj Singh
-- 👀 I’m interested in ML, SDE and Quant
+- 👀 I’m interested in SDE, Quant and Consulting as well
 - 🌱 I’m currently pursuing Computer Science and Engineering at IIT Kharagpur
-- 💞️ I’m looking to collaborate on ML Projects and SDE Projects
+- 💞️ I’m looking to collaborate on SDE Projects
 - 📫 You can reach me via my email-id "syashraj2319@gmail.com"
 
 <!---
