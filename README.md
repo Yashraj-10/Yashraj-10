@@ -14,8 +14,7 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋:
 🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: Not all developers want to be developers. 😅
 
-<table style="width:50%" align="center">
-<tbody>
+<table style="width:50%;border-style:hidden" align="center">
 <tr style="border-style:hidden">
 <td style="border-style:hidden">
 <!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br> -->
@@ -23,12 +22,11 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a> -->
 </td>
 </tr>
-</tbody>
 </table>
 
 # 📊 GitHub Stats:
 
-<table style="width:100%">
+<table style="width:100%;border-style:hidden">
     <tr style="border-style:hidden">
         <td style="border-style:hidden" align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=Yashraj-10&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true" >
