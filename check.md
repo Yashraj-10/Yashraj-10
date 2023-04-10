@@ -116,10 +116,10 @@
 </tr>
 </tbody>
 </table>
-<button class="button-64" role="button"><span class="text">Button 64</span></button>
+
 <style>
-    .button-64 {
-        align-items: center;
+.button-64 {
+  align-items: center;
   background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
   border: 0;
   border-radius: 8px;
@@ -163,3 +163,17 @@
   }
 }
 </style>
+
+<table style="width:50%" align="center">
+<tr style="border-style:hidden">
+<td>
+<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Prev</span></button></a>
+</td>
+<td>
+<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Random</span></button></a>
+</td>
+<td>
+<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Next</span></button></a>
+</td>
+</tr>
+</table>

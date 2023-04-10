@@ -14,65 +14,16 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋:
 🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: Not all developers want to be developers. 😅
 
-<style>
-.button-64 {
-  align-items: center;
-  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
-  border: 0;
-  border-radius: 8px;
-  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
-  box-sizing: border-box;
-  color: #FFFFFF;
-  display: flex;
-  font-family: Phantomsans, sans-serif;
-  font-size: 20px;
-  justify-content: center;
-  line-height: 1em;
-  max-width: 100%;
-  min-width: 140px;
-  padding: 3px;
-  text-decoration: none;
-  user-select: none;
-  -webkit-user-select: none;
-  touch-action: manipulation;
-  white-space: nowrap;
-  cursor: pointer;
-}
-.button-64:active,
-.button-64:hover {
-  outline: 0;
-}
-.button-64 span {
-  background-color: rgb(5, 6, 45);
-  padding: 16px 24px;
-  border-radius: 6px;
-  width: 100%;
-  height: 100%;
-  transition: 300ms;
-}
-.button-64:hover span {
-  background: none;
-}
-@media (min-width: 768px) {
-  .button-64 {
-    font-size: 24px;
-    min-width: 196px;
-  }
-}
-</style>
-
 <table style="width:50%" align="center">
-<tr style="border-style:hidden">
+<tbody>
+<tr>
 <td>
-<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Prev</span></button></a>
-</td>
-<td>
-<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Random</span></button></a>
-</td>
-<td>
-<a href="https://octo-ring.com/p/Yashraj-10/prev"><button class="button-64"><span class="text">Next</span></button></a>
+<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br> -->
+<a href="https://octo-ring.com/p/Yashraj-10/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Yashraj-10/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Yashraj-10/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
+<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a> -->
 </td>
 </tr>
+</tbody>
 </table>
 
 # 📊 GitHub Stats:
