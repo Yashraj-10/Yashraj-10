@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋:
 🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: Not all developers want to be developers. 😅
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <table style="width:50%;border-style:hidden" align="center">
 <tr style="border-style:hidden">
 <td style="border-style:hidden">
