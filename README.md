@@ -17,10 +17,14 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 April 2023 - To: 26 April 2023
+From: 20 April 2023 - To: 27 April 2023
 
-YAML       31 mins         ██████████████████████▒░░   89.70 %
-Markdown   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+YAML         31 mins         ██████████░░░░░░░░░░░░░░░   40.36 %
+Markdown     30 mins         █████████▓░░░░░░░░░░░░░░░   38.99 %
+Python       5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+C            4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
