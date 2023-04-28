@@ -6,7 +6,7 @@ on:
     branches: [main]
   schedule:
     # Runs at 12am UTC
-    - cron: "0 18 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
