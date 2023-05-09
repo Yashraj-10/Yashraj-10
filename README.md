@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2023 - To: 07 May 2023
+From: 01 May 2023 - To: 08 May 2023
 
-C                31 mins         ██████████████░░░░░░░░░░░   56.13 %
-Git Config       16 mins         ███████▒░░░░░░░░░░░░░░░░░   29.64 %
-Markdown         3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
-ca65 assembler   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-Assembly         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+C                40 mins         ███████████████▒░░░░░░░░░   61.35 %
+Git Config       16 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
+Markdown         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+ca65 assembler   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+Makefile         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
 ```
 
 <!--END_SECTION:waka-->
