@@ -17,12 +17,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-C             18 mins         ██████████████████▒░░░░░░   73.70 %
-Makefile      4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Markdown      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+C             18 mins         ██████████████████▒░░░░░░   73.24 %
+Makefile      4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Markdown      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
