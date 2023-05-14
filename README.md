@@ -12,17 +12,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Hi there 👋:
-🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: Not all developers want to be developers. 😅
+🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: A cat has two vocal chords, and can make over 100 sounds.
 
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
-C             18 mins         ██████████████████▒░░░░░░   73.70 %
-Makefile      4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.25 %
-Markdown      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+C             18 mins         ██████████████████▒░░░░░░   73.24 %
+Makefile      4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Markdown      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Text          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
 JSON          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
