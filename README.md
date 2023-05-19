@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 May 2023 - To: 17 May 2023
+From: 11 May 2023 - To: 18 May 2023
 
-Other      45 mins         █████████▒░░░░░░░░░░░░░░░   37.54 %
-Go         33 mins         ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Python     13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-Bash       11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-Markdown   10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
+Go           1 hr 19 mins    ████████▒░░░░░░░░░░░░░░░░   33.66 %
+Bash         52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.56 %
+Other        45 mins         █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+INI          13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+Python       13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
