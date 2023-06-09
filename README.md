@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 07 June 2023
+From: 01 June 2023 - To: 08 June 2023
 
-Go                22 hrs 35 mins  ██████████████████████▒░░   89.26 %
-YAML              1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Other             53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Python            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-Bash              16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Go                20 hrs 25 mins  ██████████████████████▓░░   90.78 %
+YAML              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Other             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+C++               8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
