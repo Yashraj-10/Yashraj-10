@@ -17,13 +17,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2023 - To: 12 July 2023
+From: 06 July 2023 - To: 13 July 2023
 
-Go                         29 hrs 40 mins  ████████████████████▓░░░░   82.36 %
-Protocol Buffer            2 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-YAML                       2 hrs           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
-Python                     44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-TypeScript                 34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Go                         23 hrs          █████████████████▒░░░░░░░   69.77 %
+TypeScript                 4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
+YAML                       2 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+Protocol Buffer            1 hr 55 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
+Python                     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
