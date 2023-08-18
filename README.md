@@ -17,12 +17,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2023 - To: 16 August 2023
+From: 10 August 2023 - To: 17 August 2023
 
-Python       32 mins         █████████████████████▒░░░   84.69 %
-Bash         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.66 %
-Other        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Python       13 mins         ██████████████████░░░░░░░   72.32 %
+Bash         4 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.88 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
