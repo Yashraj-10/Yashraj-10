@@ -14,6 +14,20 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋:
 🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: A cat has two vocal chords, and can make over 100 sounds.
 
+<table style="width:50%;border-style:hidden" align="center">
+<tr style="border-style:hidden">
+<td style="border-style:hidden">
+<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br> -->
+<a href="https://octo-ring.com/p/Yashraj-10/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Yashraj-10/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Yashraj-10/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
+<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a> -->
+</td>
+</tr>
+</table>
+
+# Coding Activity:
+
+[![Wakatime](https://wakatime.com/badge/user/5b189957-b365-42ad-8405-bd9985815661.svg)](https://wakatime.com/@5b189957-b365-42ad-8405-bd9985815661)
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -27,16 +41,6 @@ JavaScript        7 mins          █▒░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<table style="width:50%;border-style:hidden" align="center">
-<tr style="border-style:hidden">
-<td style="border-style:hidden">
-<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br> -->
-<a href="https://octo-ring.com/p/Yashraj-10/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Yashraj-10/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Yashraj-10/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br>
-<!-- <a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a> -->
-</td>
-</tr>
-</table>
 
 # 📊 GitHub Stats:
 
