@@ -14,20 +14,6 @@ You can click the Preview link to take a look at your changes.
 # Hi there 👋:
 🔭 I'm currently working on Software Development and DevOps.<br>👯 I’m looking to collaborate on projects involving frameworks such as Django, Flask and React.js as frontend.<br>🤝 I’m looking for any help in learning DevOps.<br>🌱 I’m currently learning Golang, Docker, K8s and React.js<br>💬 Ask me about anything related to finance and CS concepts and I would be happy to have a discussion on it.<br>⚡ Fun fact: A cat has two vocal chords, and can make over 100 sounds.
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 20 August 2023 - To: 27 August 2023
-
-Docker            46 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-Bash              23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Ezhil             18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-HTML              13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-JavaScript        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-```
-
-<!--END_SECTION:waka-->
-
 <table style="width:50%;border-style:hidden" align="center">
 <tr style="border-style:hidden">
 <td style="border-style:hidden">
@@ -37,6 +23,24 @@ JavaScript        7 mins          █▒░░░░░░░░░░░░░�
 </td>
 </tr>
 </table>
+
+# Coding Activity:
+
+[![Wakatime](https://wakatime.com/badge/user/5b189957-b365-42ad-8405-bd9985815661.svg)](https://wakatime.com/@5b189957-b365-42ad-8405-bd9985815661)
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 21 August 2023 - To: 28 August 2023
+
+Bash              56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Docker            46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+TypeScript        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Ezhil             18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Markdown          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+```
+
+<!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
 
