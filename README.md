@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2023 - To: 27 August 2023
+From: 21 August 2023 - To: 28 August 2023
 
-Docker            46 mins         ████████▓░░░░░░░░░░░░░░░░   34.42 %
-Bash              23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.05 %
-Ezhil             18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
-HTML              13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
-JavaScript        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+Bash              56 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.76 %
+Docker            46 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.26 %
+TypeScript        20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Ezhil             18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
+Markdown          16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
