@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2023 - To: 01 September 2023
+From: 26 August 2023 - To: 02 September 2023
 
 Bash          41 mins         █████████▓░░░░░░░░░░░░░░░   38.64 %
 TypeScript    20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.22 %
