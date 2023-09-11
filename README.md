@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Markdown     1 hr 18 mins    ████████▒░░░░░░░░░░░░░░░░   32.70 %
-Text         40 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.83 %
-TypeScript   37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-Python       31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-Bash         20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+C             4 hrs 29 mins   ███████████████░░░░░░░░░░   60.52 %
+TypeScript    37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Markdown      34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+Python        31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Bash          20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
