@@ -31,10 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
-Bash     2 mins          ████████████████████░░░░░   80.40 %
-Python   0 secs          █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Go         36 mins         ██████████████░░░░░░░░░░░   56.53 %
+HTML       20 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Markdown   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Bash       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+JSON       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
