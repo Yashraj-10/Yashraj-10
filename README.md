@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 30 October 2023 - To: 06 November 2023
 
-Docker       12 mins         ███████████▓░░░░░░░░░░░░░   46.01 %
-Python       6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.95 %
-TeX          6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-Bash         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Docker        12 mins         ████████▒░░░░░░░░░░░░░░░░   33.82 %
+C++           9 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.36 %
+Python        6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.07 %
+TeX           6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+Bash          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
