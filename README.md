@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 December 2023 - To: 09 December 2023
+From: 03 December 2023 - To: 10 December 2023
 
 Python     3 hrs 50 mins   ██████████████████████░░░   87.44 %
 JSON       15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
