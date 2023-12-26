@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 December 2023 - To: 24 December 2023
+From: 18 December 2023 - To: 25 December 2023
 
-Python     1 hr 7 mins     ████████░░░░░░░░░░░░░░░░░   31.82 %
-Bash       48 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
-YAML       42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.19 %
-Markdown   19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-JSON       13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Bash       48 mins         █████████▒░░░░░░░░░░░░░░░   37.19 %
+YAML       42 mins         ████████░░░░░░░░░░░░░░░░░   32.62 %
+Markdown   19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+Go         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Other      6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
 ```
 
 <!--END_SECTION:waka-->
