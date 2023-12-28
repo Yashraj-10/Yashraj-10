@@ -31,13 +31,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 December 2023 - To: 26 December 2023
+From: 20 December 2023 - To: 27 December 2023
 
-YAML       42 mins         ███████████░░░░░░░░░░░░░░   43.93 %
-Bash       26 mins         ███████░░░░░░░░░░░░░░░░░░   27.58 %
-Markdown   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Go         7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Other      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+YAML    45 mins         █████████████▓░░░░░░░░░░░   54.33 %
+Bash    26 mins         ████████░░░░░░░░░░░░░░░░░   31.89 %
+Other   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+TOML    5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.42 %
 ```
 
 <!--END_SECTION:waka-->
