@@ -31,13 +31,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 December 2023 - To: 03 January 2024
+From: 29 December 2023 - To: 05 January 2024
 
-Go                57 mins         ████████████████▒░░░░░░░░   64.68 %
-Protocol Buffer   14 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-Python            7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-Markdown          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-Makefile          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Go         25 mins         ███████████████████████▓░   94.43 %
+Makefile   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
 ```
 
 <!--END_SECTION:waka-->
