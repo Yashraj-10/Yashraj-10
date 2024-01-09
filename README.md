@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2023 - To: 07 January 2024
+From: 01 January 2024 - To: 08 January 2024
 
 Go         25 mins         ███████████████████████▓░   94.43 %
 Makefile   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
