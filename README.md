@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2024 - To: 16 January 2024
+From: 10 January 2024 - To: 17 January 2024
 
-Python       2 hrs 7 mins    ███████████▒░░░░░░░░░░░░░   45.17 %
-Go           1 hr 29 mins    ████████░░░░░░░░░░░░░░░░░   31.75 %
-Docker       24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
-Markdown     15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+Python       2 hrs 7 mins    ████████████▒░░░░░░░░░░░░   49.54 %
+Go           1 hr 29 mins    ████████▓░░░░░░░░░░░░░░░░   34.82 %
+Docker       24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 %
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
 ```
 
 <!--END_SECTION:waka-->
