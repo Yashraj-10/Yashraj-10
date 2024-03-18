@@ -31,10 +31,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2024 - To: 16 March 2024
+From: 10 March 2024 - To: 17 March 2024
 
-Python   49 mins         ███████████████████▓░░░░░   78.22 %
-JSON     13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
+Python   49 mins         ███████████▓░░░░░░░░░░░░░   46.36 %
+C++      43 mins         ██████████▒░░░░░░░░░░░░░░   40.73 %
+JSON     13 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.91 %
 ```
 
 <!--END_SECTION:waka-->
