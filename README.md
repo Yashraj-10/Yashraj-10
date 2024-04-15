@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 April 2024 - To: 13 April 2024
+From: 07 April 2024 - To: 14 April 2024
 
 C        14 mins         ████████████████████▓░░░░   82.15 %
 Python   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
