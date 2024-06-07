@@ -31,12 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2024 - To: 05 June 2024
+From: 30 May 2024 - To: 06 June 2024
 
-TypeScript   59 mins         █████████████████████▓░░░   86.41 %
-Bash         9 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Go           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript                 1 hr 55 mins    ███████████████▒░░░░░░░░░   61.03 %
+Other                      26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Bash                       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+JSON                       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+MDX                        13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
 ```
 
 <!--END_SECTION:waka-->
