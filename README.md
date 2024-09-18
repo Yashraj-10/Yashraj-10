@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Go                7 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.18 %
-Makefile          1 hr 21 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
-TypeScript        1 hr 17 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
-Bash              56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Terraform         49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
+Go                3 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
+TypeScript        2 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+Markdown          1 hr 27 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.08 %
+Protocol Buffer   1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+Bash              58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
 ```
 
 <!--END_SECTION:waka-->
