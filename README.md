@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 12 November 2024 - To: 19 November 2024
 
-Go                6 hrs 25 mins   █████████▒░░░░░░░░░░░░░░░   37.95 %
-TypeScript        6 hrs 8 mins    █████████░░░░░░░░░░░░░░░░   36.28 %
-Protocol Buffer   2 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
-Rego              52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.13 %
-Other             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Go                7 hrs 33 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
+TypeScript        6 hrs 18 mins   ████████░░░░░░░░░░░░░░░░░   32.32 %
+Protocol Buffer   1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Markdown          1 hr 32 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Rego              52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
 ```
 
 <!--END_SECTION:waka-->
