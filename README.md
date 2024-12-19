@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 11 December 2024 - To: 18 December 2024
 
-Go                8 hrs 40 mins   █████████████░░░░░░░░░░░░   51.47 %
-YAML              1 hr 54 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-TypeScript        1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
-Terraform         1 hr 19 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-Protocol Buffer   44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Go                11 hrs 11 mins  ████████████████░░░░░░░░░   63.69 %
+TypeScript        2 hrs 17 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+YAML              1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Protocol Buffer   52 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Markdown          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
 ```
 
 <!--END_SECTION:waka-->
