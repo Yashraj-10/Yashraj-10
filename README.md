@@ -31,12 +31,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2024 - To: 31 December 2024
+From: 25 December 2024 - To: 01 January 2025
 
-Go           28 mins         ██████████████████▒░░░░░░   72.75 %
-JSON         4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Text         3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-TypeScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Go           22 mins         ███████████████████░░░░░░   76.30 %
+JSON         4 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.12 %
+TypeScript   2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
 ```
 
 <!--END_SECTION:waka-->
