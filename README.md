@@ -42,7 +42,7 @@ TypeScript        24 mins         ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <table style="width:100%;border-style:hidden">
     <tr style="border-style:hidden">
@@ -58,7 +58,7 @@ TypeScript        24 mins         ▓░░░░░░░░░░░░░░�
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj-10&theme=blue-green&hide_border=true">
         </td>
     </tr>
-</table>
+</table> -->
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Yashraj-10&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
