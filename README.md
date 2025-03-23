@@ -31,18 +31,18 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 March 2025 - To: 20 March 2025
+From: 15 March 2025 - To: 22 March 2025
 
-Go                13 hrs 44 mins  ███████████████████▒░░░░░   77.22 %
-Other             1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Protocol Buffer   1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Makefile          33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
-TypeScript        24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Go                15 hrs 21 mins  ███████████████████░░░░░░   76.21 %
+Protocol Buffer   1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+Other             1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Makefile          50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+YAML              29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
 ```
 
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats:
 
 <table style="width:100%;border-style:hidden">
     <tr style="border-style:hidden">
@@ -58,7 +58,7 @@ TypeScript        24 mins         ▓░░░░░░░░░░░░░░�
             <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashraj-10&theme=blue-green&hide_border=true">
         </td>
     </tr>
-</table>
+</table> -->
 
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=Yashraj-10&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
