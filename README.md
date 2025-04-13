@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
 Go                6 hrs 27 mins   ███████████▓░░░░░░░░░░░░░   47.28 %
 JSON              2 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
