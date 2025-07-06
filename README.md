@@ -31,12 +31,12 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 June 2025 - To: 04 July 2025
+From: 28 June 2025 - To: 05 July 2025
 
-Go                9 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.88 %
-TypeScript        6 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   32.79 %
-JSON              1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-Rego              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Go                9 hrs 48 mins   ████████████░░░░░░░░░░░░░   47.96 %
+TypeScript        6 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 %
+JSON              1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Rego              1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 YAML              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
 ```
 
