@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2025 - To: 30 July 2025
+From: 24 July 2025 - To: 31 July 2025
 
-Go                8 hrs 24 mins   ████████████████▓░░░░░░░░   66.26 %
-Markdown          47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-JSON              44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
-YAML              43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
-Other             25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+Go                9 hrs 40 mins   ███████████████▓░░░░░░░░░   62.07 %
+Other             1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+TypeScript        54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+YAML              51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+JSON              49 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
 ```
 
 <!--END_SECTION:waka-->
