@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
 Go                3 hrs 22 mins   ███████████░░░░░░░░░░░░░░   43.67 %
 YAML              2 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   35.16 %
