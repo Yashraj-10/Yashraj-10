@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Go                7 hrs 41 mins   █████████████████▓░░░░░░░   71.27 %
-Protocol Buffer   59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-TypeScript        52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-JSON              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
-YAML              17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
+Go                9 hrs 27 mins   ██████████████████▓░░░░░░   74.61 %
+Protocol Buffer   59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
+YAML              56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+TypeScript        33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
+Makefile          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
 ```
 
 <!--END_SECTION:waka-->
