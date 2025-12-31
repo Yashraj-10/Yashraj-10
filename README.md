@@ -31,13 +31,10 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-Go                1 hr 4 mins     █████████████████████▓░░░   86.43 %
-YAML              6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Jinja             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
-Other             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Go                1 min           ███████████████████████▓░   94.29 %
+Protocol Buffer   0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
 ```
 
 <!--END_SECTION:waka-->
