@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2026 - To: 07 April 2026
+From: 01 April 2026 - To: 08 April 2026
 
-Go                7 hrs 11 mins         ███████████▓░░░░░░░░░░░░░   47.24 %
-Markdown          2 hrs 24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
-YAML              2 hrs 5 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 %
-Rego              1 hr 18 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Makefile          52 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Go                6 hrs 15 mins         ██████████▒░░░░░░░░░░░░░░   41.94 %
+Markdown          2 hrs 43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.21 %
+YAML              2 hrs 14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+Makefile          1 hr 15 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
+Rego              50 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
 ```
 
 <!--END_SECTION:waka-->
