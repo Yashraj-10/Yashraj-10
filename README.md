@@ -31,13 +31,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 November 2026 - To: 26 November 2026
+From: 20 November 2026 - To: 27 November 2026
 
-Other             14 mins               ███████▓░░░░░░░░░░░░░░░░░   30.82 %
-Go                12 mins               ███████░░░░░░░░░░░░░░░░░░   27.36 %
-TypeScript        8 mins                ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-JSON              4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.85 %
-Protocol Buffer   2 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
